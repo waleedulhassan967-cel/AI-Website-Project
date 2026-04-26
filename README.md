@@ -1,4 +1,4 @@
-Project Description
+Project Description :
 This is a modern, interactive web application built to help students generate funny excuses.
 Tool & Prompt Details
 AI Tool Used: Emergent Agent & ChatGPT
